@@ -40,11 +40,9 @@ Principais funcionalidades:
    - Faça o upload do código para a placa via IDE Arduino.
 
 5. **Montagem do circuito:**
-   - Siga o esquema de ligação sugerido nos comentários do código para conectar sensores, LEDs e motores à placa.
-   
-   ![Esquema do Circuito](Circuito/Circuito_Ponte_Basculante.BMP)
+- Siga o esquema de ligação sugerido nos comentários do código para conectar sensores, LEDs e motores à placa.
 
-6. **Execução:**
+    ![Esquema do Circuito](Circuito/Captura%20de%20tela%202025-06-30%20234345.png)
    - Alimente a placa Arduino e observe o funcionamento automático da ponte conforme a detecção de barcos.
 
 ## Contribuição
