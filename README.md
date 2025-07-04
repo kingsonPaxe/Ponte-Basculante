@@ -54,7 +54,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## Licença
 
 Este projeto está sob a licença MIT.
-
----
-
-Se quiser adicionar exemplos de código, imagens do circuito ou outros detalhes, posso te ajudar a complementar!
